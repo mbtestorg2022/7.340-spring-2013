@@ -52,24 +52,219 @@ The class is graded on a pass/fail basis for 6 units, and grades will be based o
 Calendar
 --------
 
-| WEEK # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction and Course Overview | &nbsp; |
-| {{< td-colspan 3 >}}**Topic 1: Fixer Uppers: Parasite-mediated Remodeling of the Host Cell and its Disease Implications**{{< /td-colspan >}} |||
-| 2 | Fixer Uppers: Parasite-Mediated Remodeling of the Host Cell and its Disease Implications I | &nbsp; |
-| 3 | Fixer Uppers: Parasite-Mediated Remodeling of the Host Cell and its Disease Implications II | &nbsp; |
-| {{< td-colspan 3 >}}**Topic 2: Invasion of the Host Cell**{{< /td-colspan >}} |||
-| 4 | Invasion of the Host Cell I | &nbsp; |
-| 5 | Invasion of the Host Cell II | &nbsp; |
-| 6 | Invasion of the Host Cell III | &nbsp; |
-| {{< td-colspan 3 >}}**Topic 3: Determinants of Pathogen Proliferation within the Host Cell**{{< /td-colspan >}} |||
-| 7 | Determinants of Pathogen Proliferation within the Host Cell I | &nbsp; |
-| 8 | Determinants of Pathogen Proliferation within the Host Cell II | Written Assignment Due |
-| 9 | Determinants of Pathogen Proliferation within the Host Cell III | &nbsp; |
-| 10 | Field Trip | For their field trip, students will choose a seminar from a local academic institution, focusing on infectious disease research or drug design. |
-| {{< td-colspan 3 >}}**Topic 4: Both Sides of the Battle: Innate Immunity versus Virulence Factors**{{< /td-colspan >}} |||
-| 11 | Both Sides of the Battle: Innate Immunity versus Virulence Factors I | &nbsp; |
-| 12 | Both Sides of the Battle: Innate Immunity versus Virulence Factors II | &nbsp; |
-| {{< td-colspan 3 >}}**Topic 5: Virus Meets Parasite: How Viruses and Parasites Interact, Affecting Host Fitness**{{< /td-colspan >}} |||
-| 13 | Virus Meets Parasite: How Viruses and Parasites Interact, Affecting Host Fitness | &nbsp; |
-| 14 | Oral Presentations and Discussion of the Course | Oral Presentations
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction and Course Overview
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Topic 1: Fixer Uppers: Parasite-mediated Remodeling of the Host Cell and its Disease Implications**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Fixer Uppers: Parasite-Mediated Remodeling of the Host Cell and its Disease Implications I
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Fixer Uppers: Parasite-Mediated Remodeling of the Host Cell and its Disease Implications II
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Topic 2: Invasion of the Host Cell**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Invasion of the Host Cell I
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Invasion of the Host Cell II
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Invasion of the Host Cell III
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Topic 3: Determinants of Pathogen Proliferation within the Host Cell**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Determinants of Pathogen Proliferation within the Host Cell I
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Determinants of Pathogen Proliferation within the Host Cell II
+{{< tdclose >}}
+{{< tdopen >}}
+Written Assignment Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Determinants of Pathogen Proliferation within the Host Cell III
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Field Trip
+{{< tdclose >}}
+{{< tdopen >}}
+For their field trip, students will choose a seminar from a local academic institution, focusing on infectious disease research or drug design.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Topic 4: Both Sides of the Battle: Innate Immunity versus Virulence Factors**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Both Sides of the Battle: Innate Immunity versus Virulence Factors I
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Both Sides of the Battle: Innate Immunity versus Virulence Factors II
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Topic 5: Virus Meets Parasite: How Viruses and Parasites Interact, Affecting Host Fitness**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Virus Meets Parasite: How Viruses and Parasites Interact, Affecting Host Fitness
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Oral Presentations and Discussion of the Course
+{{< tdclose >}}
+{{< tdopen >}}
+Oral Presentations
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
